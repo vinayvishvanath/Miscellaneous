@@ -1,0 +1,2 @@
+2016 Apr  2 14:25:06 switch1 %ETHPORT-5-IF_DOWN_INTERFACE_REMOVED: Interface Ethernet5/1 is down (Interface removed)
+2016 May 18 12:43:15 switch2 %ETHPORT-5-IF_DOWN_LINK_FAILURE: Interface Ethernet1/4 is down (Link failure)
